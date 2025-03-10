@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChedidPolicyAPI", "ChedidPolicyAPI\ChedidPolicyAPI.csproj", "{EAE455CB-E9CD-4E66-A253-79E43730BD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChedidAPIData", "ChedidAPIModels\ChedidAPIData.csproj", "{D7F4BAB7-D1A8-40EC-8DE9-D0B9403259E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChedidAPIBusiness", "ChedidAPIBusiness\ChedidAPIBusiness.csproj", "{0027CCDC-BB23-4781-B601-6493F7D7E517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChedidAPIRepository", "ChedidAPIRepository\ChedidAPIRepository.csproj", "{778BC93B-9656-4609-93C8-A7B0B0556F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE455CB-E9CD-4E66-A253-79E43730BD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE455CB-E9CD-4E66-A253-79E43730BD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE455CB-E9CD-4E66-A253-79E43730BD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE455CB-E9CD-4E66-A253-79E43730BD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F4BAB7-D1A8-40EC-8DE9-D0B9403259E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F4BAB7-D1A8-40EC-8DE9-D0B9403259E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F4BAB7-D1A8-40EC-8DE9-D0B9403259E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F4BAB7-D1A8-40EC-8DE9-D0B9403259E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0027CCDC-BB23-4781-B601-6493F7D7E517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0027CCDC-BB23-4781-B601-6493F7D7E517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0027CCDC-BB23-4781-B601-6493F7D7E517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0027CCDC-BB23-4781-B601-6493F7D7E517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778BC93B-9656-4609-93C8-A7B0B0556F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778BC93B-9656-4609-93C8-A7B0B0556F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778BC93B-9656-4609-93C8-A7B0B0556F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778BC93B-9656-4609-93C8-A7B0B0556F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C3840E-42B3-42ED-A9D6-B619D35A6EAC}
+	EndGlobalSection
+EndGlobal

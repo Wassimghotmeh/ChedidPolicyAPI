@@ -1,0 +1,6 @@
+@ChedidPolicyAPI_HostAddress = http://localhost:5261
+
+GET {{ChedidPolicyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
